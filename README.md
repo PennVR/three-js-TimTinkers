@@ -8,7 +8,7 @@ By Tim Clancy.
 
 # GitHub Pages site
 
-The demo is hosted at https://timtinkers.github.io/three-js-clancyt/.
+The demo is hosted at https://pennvr.github.io/three-js-TimTinkers/.
 
 # Techniques used
 
